@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:background="@drawable/intro">
+    <!--We need to add Background Image-->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="내장형시스템 팡팡팡!"
+        android:textSize="15dp"
+        android:layout_marginBottom="5dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="내 장 - 팡"
+        android:textSize="40dp"
+        android:layout_marginBottom="250dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+
+
+    <Button
+        android:id="@+id/single_play"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginHorizontal="60dp"
+        android:background="@drawable/round_button"
+        android:text="Single Play"
+        android:textColor="#ffffff"
+        android:textSize="12dp"
+        android:textStyle="normal" />
+
+    <Button
+        android:id="@+id/multi_play"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginHorizontal="60dp"
+        android:background="@drawable/round_button"
+        android:text="Multi Play"
+        android:textColor="#ffffff"
+        android:textSize="12dp"
+        android:textStyle="normal" />
+
+    <Button
+        android:id="@+id/ranking"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_marginHorizontal="60dp"
+        android:background="@drawable/round_button"
+        android:text="Ranking"
+        android:textColor="#ffffff"
+        android:textSize="12dp"
+        android:textStyle="normal" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+
+
+
+
+</LinearLayout>
