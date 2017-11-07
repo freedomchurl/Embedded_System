@@ -1,4 +1,4 @@
-package com.example.caucse.a7segment_8;
+package com.example.caucse.Embedded_Final_Project1;
 
 /**
  * Created by caucse on 2017-11-08.

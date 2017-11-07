@@ -1,13 +1,11 @@
-package com.example.caucse.a7segment_8;
+package com.example.caucse.Embedded_Final_Project1;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.Handler;
 import android.support.annotation.Nullable;
 import android.util.Log;
 import android.view.View;
-import android.view.WindowManager;
 import android.widget.Button;
 
 /**

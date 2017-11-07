@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.example.caucse.a7segment_8"
+        applicationId "com.example.caucse.Embedded_Final_Project1"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1

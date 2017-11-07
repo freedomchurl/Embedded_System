@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">7Segment_8</string>
+    <string name="app_name">Embedded_Final_Project1</string>
     <string name="dev_name">7-segment</string>
     <string name="dev_instruction">Countdown Timer (1-999999)</string>
     <string name="count_start">Start</string>
